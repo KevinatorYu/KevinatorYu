@@ -1,12 +1,8 @@
-Hi - My name's Kevin - I am a student at UBC studying Statistics.
+I recently graduated from the University of British Columbia with a Bachelors of Science in Statistics, a Minor in Data Science, and multiple internship experiences within the Canadian public sector. These experiences have given me many opportunities to make meaningful contributions to organizations that prioritizes integrity, DEI, teamwork, evidence-based decision making, among many others.
 
-I'm very new to coding. I tried Javascript when I was very young, but that didn't get anywhere. 
-It was only after I took CPSC 110 at UBC (In Racket) in 2021 where I learned how fun and useful coding is to the everyday world and how much I want to pursue it.
+With my experiences in Agriculture & Agri-Food Canada as well as Statistics Canada, I possess a variety of skills in the knowledge and understanding of data, data systems, and statistical software applications. I've also applied skills in economics, financial modelling, and risk management in mission-critical surveys such as the Labour Force Survey (LFS) and the Census of Population.
 
-I may upload a few of my small projects on here as I'm learning the world of code; at this moment, I'm taking classes at UBC learning R and Java.
-I might learn additional languages and will update this page.
-
-Thank you for visiting!
+I plan to put some of my projects here; ranging from Statistics Canada datasets to Elo rating Systems for the NHL. Thank you for visiting!
 
 
 
